@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433622438408",
+    "project_id": "kixar-5d7d5",
+    "storage_bucket": "kixar-5d7d5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433622438408:android:5b94de0787f60b922237bd",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe643KVjLq4xgU6I4nmZGn0ilN81_dnjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
